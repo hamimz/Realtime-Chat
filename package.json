@@ -8,7 +8,7 @@
     "dev": "nodemon server"
   },
   "author": "Hamim",
-  "license": "BRAC",
+  "license": "MIT",
   "dependencies": {
     "@socket.io/redis-adapter": "^7.1.0",
     "dotenv": "^14.3.2",
